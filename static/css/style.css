@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 5rem;
+    padding: 0rem 5rem;
+}
+
+#userInput {
+    padding: 1rem;
+    font-size: 1rem;
+    width: 20rem;
+    height: 5rem;
+}
+
+#submitButton {
+    margin-top: 1rem;
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+}
