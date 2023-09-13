@@ -6,3 +6,8 @@ If you would like to know how the application works. Please watch the video belo
     * your Python version is > 3.3 <br/>
     * have Flask installed <br/>
   If all requirements are met, navigate to http://127.0.0.1/5000 to test it out
+
+
+# Video 
+
+[Link to Video](https://youtu.be/TXnzwv9v_iA)
